@@ -25,7 +25,6 @@ endif()
 
 
 add_subdirectory(opus)
-add_subdirectory(moonlight-common-c)
 
 add_library(entry SHARED
     hello.cpp

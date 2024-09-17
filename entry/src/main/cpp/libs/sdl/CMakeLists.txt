@@ -1,5 +1,5 @@
 # the minimum version of CMake.
-cmake_minimum_required(VERSION 3.4.1)
+cmake_minimum_required(VERSION 3.5)
 project(SDL3 LANGUAGES C CXX VERSION "3.0.0")
 set(SDL_DIR ${CMAKE_CURRENT_SOURCE_DIR}/sdl-ohos)
 

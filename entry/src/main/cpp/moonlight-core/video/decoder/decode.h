@@ -5,7 +5,8 @@
 // please include "napi/native_api.h".
 
 #pragma once
-#include <Limelight.h>
+// #include <Limelight.h>
+#include "napi/native_api.h"
 
 #define SDL_CODE_FRAME_READY 0
 #define MAX_SLICES 4
